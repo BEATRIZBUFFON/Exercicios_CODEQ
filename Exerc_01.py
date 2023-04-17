@@ -1,3 +1,5 @@
+a = float(input("Digite um valor inteiro: "))
+b = float(input("Digite um valor inteiro: "))
 a = 5
 b = 6
 x = a + b
