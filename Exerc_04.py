@@ -1,5 +1,3 @@
-
-#Exercício 4:
 a = float(input("Digite um valor para o ponto A: "))
 b = float(input("Digite um valor para o ponto B: "))
 c = float(input("Digite um valor para o ponto C: "))
