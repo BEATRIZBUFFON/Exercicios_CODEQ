@@ -1,5 +1,3 @@
-
-#Exercício 6:
 d = float(input("Número do funcionário: "))
 a = float(input("Número de horas trabalhadas: "))
 b = float(input("Valor recebido por hora: "))
