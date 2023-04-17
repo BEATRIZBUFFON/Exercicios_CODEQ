@@ -1,8 +1,6 @@
-
-#Exercício 3:
-a = 5.0
-b = 7.0
-c = 3.0
+a = float(input("Digite a nota do aluno A: "))
+a = float(input("Digite a nota do aluno B: "))
+a = float(input("Digite a nota do aluno C: "))
 media = (a+b+c)/3
 media_pond = (a*2 + b*3 + c*5)/ (2+3+5)
 media_pond = round(float(media_pond), 1)
