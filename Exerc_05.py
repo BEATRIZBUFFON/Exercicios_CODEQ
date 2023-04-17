@@ -1,5 +1,3 @@
-
-#Exercício 5:
 import math
 x1 = float(input("Digite um valor para o ponto X1: "))
 y1 = float(input("Digite um valor para o ponto Y1: "))
