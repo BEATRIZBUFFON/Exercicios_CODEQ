@@ -11,8 +11,8 @@ area_quad = b**2
 area_quad = round(float(area_quad), 3)
 area_retang = a*b
 area_retang = round(float(area_retang), 3)
-print(f'A área do triângulo retângulo é de: {area_triang}')
-print(f'A área do círculo é de: {area_circ}')
-print(f'A área do trapézio é de: {area_trap}')
-print(f'A área do quadrado é de: {area_quad}')
-print(f'A área do retângulo é de: {area_retang}')
+print(f'TRIÂNGULO: {area_triang}')
+print(f'CÍRCULO: {area_circ}')
+print(f'TRAPÉZIO: {area_trap}')
+print(f'QUADRADO: {area_quad}')
+print(f'RETÂNGULO: {area_retang}')
