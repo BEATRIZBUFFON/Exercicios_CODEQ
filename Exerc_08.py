@@ -11,4 +11,5 @@ raiz_1 = -b + raiz / 2*a
 raiz_2 = -b - raiz / 2*a
 raiz_1 = round(float(raiz_1), 5)
 raiz_2 = round(float(raiz_2), 5)
-print(f'R1 = {raiz_1} e R2= {raiz_2}.')
+print(f'R1 = {raiz_1}')
+print(f'R2 = {raiz_2}')
