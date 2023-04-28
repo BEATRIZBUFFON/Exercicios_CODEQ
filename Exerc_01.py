@@ -1,4 +1,4 @@
-a = float(input("Digite um valor inteiro: "))
-b = float(input("Digite um valor inteiro: "))
-x = a + b
-print(f'X = {x}')
+a = int(input("Digite um valor inteiro: "))
+b = int(input("Digite um valor inteiro: "))
+X = a + b
+print(f'X = {X}')
