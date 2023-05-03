@@ -1,0 +1,9 @@
+tipo_de_cha = int(input())
+respostas = list(map(int, input().split()))
+
+respostas_corretas = 0
+for resposta in respostas:
+    if resposta == tipo_de_cha:
+        respostas_corretas += 1
+
+print(respostas_corretas)
